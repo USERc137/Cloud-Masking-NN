@@ -13,6 +13,8 @@ Thus a remapping must be done. Clear --> (0), Thick and Thin Cloud --> (1), and 
 
 We made use of a Double Convolution Neural Network and a U-Net architecture. We evaluated are results using IoU, Dice, Precision, and Recall. 
 
+This solution will generate a two-band GeoTIFF output. The two bands are seen in the sample output below. 
+
 ## Sample Output
 
 ![Sample Output](storyboard_sample_8.png)
